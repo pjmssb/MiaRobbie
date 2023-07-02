@@ -1,4 +1,4 @@
-import openai
+import openai 
 
 openai.api_key = "SOME_API_KEY"
 
